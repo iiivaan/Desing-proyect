@@ -1,4 +1,4 @@
-# Desing-proyect
+7# Desing-proyect
 
 Diseño de interfaz
 
@@ -8,14 +8,15 @@ El siguiente prototipo tiene como objetivo concretar ideas sobre el diseño y la
 
 1: Login
 
-La primera pantalla sería el Login que se realizaría a través de Google:
+La primera pantalla sería el Login que se realizaría a través de un formulario propio de la app:
 
 ![image](https://user-images.githubusercontent.com/124628681/222332455-83655839-b4d6-4fc3-827a-fd89df71c3c9.png)
 
 
 2: Pantalla Principal
 
-Una vez el registro está finalizado el usuario encontrará, la barra de tareas y la barra de búsqueda, en la parte inferior los post sugeridos y el botón flotante para publicar:
+Una vez el registro está finalizado el usuario encontrará, la barra en la parte inferior los post sugeridos y el botón flotante para publicar,
+Seguido de la barra de tareas:
 
 ![image](https://user-images.githubusercontent.com/124628681/222332538-aea0b4cb-6de7-44dc-b599-b1aed35e8e87.png)
 
@@ -40,16 +41,7 @@ Esta es la vista de las notificaciones:
 
 ![image](https://user-images.githubusercontent.com/124628681/222332772-0d3d4327-be58-4201-a723-5f468b8d85de.png)
 
-
-6: Mensajes
-
-Aquí una lista general de los chats, mensajes y una vista detallada de un chat::
-
-![image](https://user-images.githubusercontent.com/124628681/222332854-c492614d-44ab-40ee-bd32-a90e2861bbd6.png)
-![image](https://user-images.githubusercontent.com/124628681/222332929-92cfed36-c15c-4223-9153-d1536b05f881.png)
-
-
-7: Configuración
+6: Configuración
 
 Ajustes generales:
 
