@@ -10,7 +10,7 @@ El siguiente prototipo tiene como objetivo concretar ideas sobre el diseño y la
 
 La primera pantalla sería el Login que se realizaría a través de un formulario propio de la app:
 
-![image](https://user-images.githubusercontent.com/124628681/222332455-83655839-b4d6-4fc3-827a-fd89df71c3c9.png)
+![image](https://user-images.githubusercontent.com/124628681/232968931-9c655e9f-21ee-41c5-a67d-8a1271280161.png)
 
 
 2: Pantalla Principal
@@ -18,7 +18,7 @@ La primera pantalla sería el Login que se realizaría a través de un formulari
 Una vez el registro está finalizado el usuario encontrará, la barra en la parte inferior los post sugeridos y el botón flotante para publicar,
 Seguido de la barra de tareas:
 
-![image](https://user-images.githubusercontent.com/124628681/222332538-aea0b4cb-6de7-44dc-b599-b1aed35e8e87.png)
+![image](https://user-images.githubusercontent.com/124628681/232969081-adae079b-47fe-45ef-b7ea-2119282ec60c.png)
 
 
 3: Botón Flotante
